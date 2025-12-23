@@ -1,4 +1,4 @@
-### just programmer 
+### just a programmer 
 
 <!--
 **yasinmcu/yasinmcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
